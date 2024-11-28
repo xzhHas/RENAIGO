@@ -1,0 +1,6 @@
+.vuepress
+.vuepress/.cache
+.vuepress/.temp
+node_modules
+/docs/pdf/
+/docs/img/
