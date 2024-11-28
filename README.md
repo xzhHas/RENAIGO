@@ -10,7 +10,7 @@
 
 [http://renaigo.cn/](http://renaigo.cn/)
 
-[https://bloggo.chat/](https://bloggo.chat/)
+[http://bloggo.chat/](http://bloggo.chat/)
 
 
 ## 🎉 创建目的
@@ -50,5 +50,4 @@
 ## ❤️ 致谢
 
 感谢 [vuepress-theme-reco](https://vuepress-theme-reco.recoluan.com/) 。
-
 
